@@ -7,7 +7,7 @@ Arduino UNO;
 
 Circuits > Create new circuit > Select all components on the side right menu > 
 Turn on the LEDs (Cathode) negative (0 volts) on the Resistors > Conect
-the Resistor on the GND port (Ground) >Turn on the LEDs Anode on any pin from 2 to 13 (choosen: ~3, ~5 and ~6)> 
+the Resistor on the GND port (Ground) >Turn on the LEDs Anode on any pin from 2 to 13 (choosen: ~3, ~5 and ~6)>
 Code > Output > Set pin 3 as HIGH > Control > Wait 3 sec >
 Output > Set pin 3 as LOW>
 Output > Set pin 5 as HIGH > Control > wait 1 sec >
