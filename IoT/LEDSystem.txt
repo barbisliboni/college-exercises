@@ -1,0 +1,11 @@
+Pegar os componentes e levar para o ambiente de scratch (LED, Resistor e Arduino UNO);
+Fazer as conexões dos componentes;
+Fazer o código em scratch;
+
+Circuitos > Criar novo circuito > Selecionar os componentes no menu lateral direito > 
+Ligar o LED (Cathode) negativo (0 volts) no Resistor > Conectar
+o Resistor na porta GND (Ground) > Ligar o Anode do LED em qualquer pino do 2 as 13 > 
+Código > Comando de Saída/Output > Definir pino como/set pin to (número escolhido do pino anteriormente) como ALTO/HIGH
+> Comando Controlar/Control > Aguardar 1 s/wait 1 sec > Comando de Saída/Output > Definir pino como/set pin to 
+(número escolhido do pino anteriormente) como BAIXO/LOW> Iniciar simulação > Comando Controlar/Control > Aguardar 1 s/wait 1 sec
+
