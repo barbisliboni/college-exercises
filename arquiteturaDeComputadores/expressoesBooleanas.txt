@@ -1,7 +1,7 @@
 EXPRESSÕES BOOLEANAS - EXERCÍCIO 1
-      __
+     _
 x = (A + B)
-        ____
+     _____
 x = (A + B)
 
 EXPRESSÕES BOOLEANAS - EXERCÍCIO 2
@@ -11,8 +11,8 @@ x = (A + B) + C
 x = (A . B) . C
 
 EXPRESSÕES BOOLEANAS - EXERCÍCIO 3
-      __                                __
+     _                              
 x = (A + B + C)  .  D + (A . D)
-         _________
+      ___________
 x = (((A + B) . C) + D) . E
 
