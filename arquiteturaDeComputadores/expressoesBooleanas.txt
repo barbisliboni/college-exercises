@@ -1,0 +1,18 @@
+EXPRESSÕES BOOLEANAS - EXERCÍCIO 1
+      __
+x = (A + B)
+        ____
+x = (A + B)
+
+EXPRESSÕES BOOLEANAS - EXERCÍCIO 2
+
+x = (A + B) + C
+
+x = (A . B) . C
+
+EXPRESSÕES BOOLEANAS - EXERCÍCIO 3
+      __                                __
+x = (A + B + C)  .  D + (A . D)
+         _________
+x = (((A + B) . C) + D) . E
+
