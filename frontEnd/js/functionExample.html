@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Function example</title>
+</head>
+
+<body>
+    <h2>Function example</h2>
+
+    <p>Two values multiplication</p>
+
+    <p id="result"></p>
+
+    <script>
+        function multiplying(p1, p2, type) {
+            var results;
+            if (type == "+") {
+                results = p1 + p2;
+            }
+            return results;
+        }
+        document.getElementById("result").innerHTML = "Multiplying: " + multiplying(10, 5, '*');
+
+        document.write("Test");
+    </script>
+
+</body>
+
+</html>
