@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI</title>
+</head>
+
+<body>
+    <div style="border: 1px solid #000000; width: 30rem; text-align: center;">BMI Calculator</div>
+    <pre style="border: 1px solid #000000; width: 30rem; padding-top: 1rem;">
+        Name:   <span id="name"></span>
+        Weight: <span id="weight"></span>
+        Height: <span id="height"></span>
+        BMI:    <span id="bmi"></span>
+    </pre>
+
+    <script>
+        var nameTwo = "Bárbara Liboni";
+        var weightTwo = 68;
+        var heightTwo = 1.70;
+
+        function bmiCalculation(wei, hei) {
+            var result, bmi;
+
+            bmi = wei / (hei * hei);
+
+            if (bmi <= 18.5) {
+                result = "Under weight!"
+            }
+            else if (bmi >= 18.5 && bmi <= 24.9) {
+                result = "Normal weight!"
+            }
+            else if (bmi >= 25 && bmi <= 29.9) {
+                result = "Overweight!"
+            }
+            else if (bmi >= 30 && bmi <= 34.9) {
+                result = "Obesity level I!"
+            }
+            else if (bmi >= 35 && bmi <= 39.9) {
+                result = "Obesity level II!"
+            }
+            else if (bmi >= 40) {
+                result = "Obesity level III!"
+            }
+
+            return Math.round(bmi, 2) + " - " + result;
+        }
+
+        document.getElementById("name").innerHTML = nameTwo;
+        document.getElementById("weight").innerHTML = weightTwo;
+        document.getElementById("height").innerHTML = heightTwo;
+        document.getElementById("bmi").innerHTML = bmiCalculation(weightTwo, heightTwo);
+    </script>
+</body>
+
+</html>
