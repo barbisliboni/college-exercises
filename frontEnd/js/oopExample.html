@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOP Examples</title>
+</head>
+
+<body>
+    <script>
+        var car = {
+            model: "Camaro",
+            brand: "GM",
+            power: 300,
+            color: "Yellow",
+            price: 200000,
+            carBrand: function () {
+                return this.model + " from the brand " + this.brand
+            }
+        }
+
+        var person = {
+            firstName: "Bárbara",
+            lastName: "Guerra",
+            id: 200,
+            fullName: function () {
+                return this.lastName + ", " + this.firstName
+            }
+        }
+
+        document.write("<br>I bought a " + car.color + " " + car.model + "!")
+        document.write("<br>I've had another " + car.brand + " vehicles. I invested more than R$ " + car.price + "!")
+        document.write("<br>Everybody wants to see the " + car.carBrand() + "!")
+
+        document.write("<br>" + person.firstName + "'s full name is " + person.fullName())
+    </script>
+    <hr>
+</body>
+
+</html>
