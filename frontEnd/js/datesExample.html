@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var today = new Date();
+        var endOfTheYear = new Date(2021, 11, 31, 23, 59, 59, 999);
+
+        var lastSeconds = (endOfTheYear.getTime() - today.getTime()) / 1000;
+        var days = lastSeconds / (24 * 60 * 60);
+        var hours = lastSeconds / (60 * 60);
+
+        document.write("<br> " + today.getHours() + ":" + today.getMinutes());
+        document.write("<br> " + endOfTheYear);
+        document.write("<br>Seconds: " + Math.round(lastSeconds));
+        document.write("<br> Days: " + Math.round(days));
+        document.write("<br> Hours: " + Math.round(hours));
+    </script>
+</body>
+</html>
