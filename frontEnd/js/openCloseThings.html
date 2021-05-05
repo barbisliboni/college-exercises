@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Events</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        function open_Chest() {
+            document.getElementById("chest").src = "https://elements-cover-images-0.imgix.net/1de6bf7e-324a-4c55-ba34-66a104ecf6ca?auto=compress%2Cformat&fit=max&w=632&s=103de4622108c4b8acddb96e533851ff";
+        }
+        function close_Chest() {
+            document.getElementById("chest").src = "https://thumbs.dreamstime.com/z/beautiful-closed-vintage-wooden-chest-treasure-isolated-white-background-close-up-95399976.jpg";
+        }
+
+        function open_Mouth() {
+            document.getElementById("mouth").src = "https://veja.abril.com.br/wp-content/uploads/2018/07/boca-grande-20160810-001.jpg";
+        }
+        function close_Mouth() {
+            document.getElementById("mouth").src = "https://ak.picdn.net/shutterstock/videos/20026180/thumb/1.jpg";
+        }
+    </script>
+    <center>
+        <img style="width: 600px; "
+            src="https://thumbs.dreamstime.com/z/beautiful-closed-vintage-wooden-chest-treasure-isolated-white-background-close-up-95399976.jpg"
+            id="chest" onmouseover="open_Chest()" onmouseout="close_Chest()">
+
+        <br>
+
+        <img style="width: 300px;" src="https://ak.picdn.net/shutterstock/videos/20026180/thumb/1.jpg" id="mouth"
+            onmouseover="open_Mouth()" onmouseout="close_Mouth()">
+    </center>
+
+
+</body>
+
+</html>
