@@ -1,0 +1,58 @@
+| Cloud computing is a architecture which presents the cloud as the main processing link, and is not appropriate to real time applications, since in IoT the devices should switch informations frequently and with time restrictions. 
+
+
+| Fog computing is a alternative to IoT applications geographicly distributed, latency sensible, with the purpose to reduce the traditional data centers charge (cloud computing). 
+
+
+| The expression "fog computing" was initially quoted by Cisco in 2014.
+
+
+| Three main purposes about Fog Computing: 
+	- Improve efficiency and reduce the data quantity which needs to be transmited to processing, analysis and storage; 
+	- Get the consumer information closer with the data provider;
+	- Provide security and conforming to data transmiss.
+
+
+| A few definitions to Fog Computing: 
+	- The majority of the processing occurs on its own devices (thanks to computing evolution);
+	- Virtual platform between cloud and devices;
+	- Closer to the edge devices, reducing latency in the network and bandwidth (cloud computing problems).
+
+
+| INDUSTRIAL IoT DATA PROCESSING LAYER STACK
+	- CLOUD LAYER (Big Data Processing, Business Logic, Data Warehoursing).
+	- FOG LAYER (Local Network, Data Analysis & Reduction, Control Response, Virtualization).
+	- EDGE LAYER(Large Volume Real-Time Data Processing, At Source/On Premises Data Visualization, Industrial PCs, Embedded Systems, Gateways and Micro Data Storage).
+
+
+| Edge computing is a alternative to processing outside the main point, in other words, to the edges of the network. Also, it reduces the work charge of the middleware.
+
+
+| Comparison of traditional cloud computing and fog computing
+|Features|                                            |Cloud computing|                                            |Fog computing|                               
+Computing model                                 Centralized 			               Distributed fog nodes are controlled in both distrubuted and centralized manner
+
+Deployment cost		          High due to sophisticated 	               Low, fog enables ad-hoc deployment with or without planning
+			          planning 
+
+Resource optimization	          Global			               Local
+			         			
+
+| IoT Data Challenges
+	- Data Generation: Volume, Velocity, Variety, Veracity and Value;
+	- Data Stream: Continuous arrival, Timestamp ordered, Heterogeneous sources, Heterogeneous input rates and no persistence after processed;
+	- Stream processing: Data fusion, Clustering, Classification, Regression and Outlier detection.
+
+
+| Features 0related to Big Data
+	- Volume;
+	- Velocity;
+	- Variety;
+	- Veracity;
+	- Variability;
+	- Value.
+
+
+
+
+
