@@ -1,0 +1,64 @@
+█ ANÁLISE DE DADOS DESCRITIVA █
+
+- Este método é baseado em uma ou várias questões de pesquisa e não tem hipótese
+- Inclui a coleta de dados relacionados, organização, tabulação e descrição dos resultados 
+- Uma análise descritiva básica envolve o cálculo de medidas simples de composição e 
+distribuição de variáveis
+
+█ ANÁLISE DE DADOS PREDITIVA █
+
+- É uma técnica analítica que usa dados, algoritimos e técnicas de machine learning 
+para antecipar tendências e realizar projeções
+- A partir disso, decisões mais adequadas são tomadas de acordo com as expectativas
+
+█ ANÁLISE DE DADOS DIAGNÓSTICA █
+
+- Tem como finalidade compreender o impacto de cada ação dentro das estratégias concebidas
+- A proposta dessa análise é destrinchar os dados e concretizar todo o processo
+- Um exemplo é saber quem comprou, onde comprou, quando comprou, porque comprou ou, ainda, 
+porque deixou de comprar
+
+█ ETAPAS DA ANÁLISE DE DADOS █
+
+Dados não tratados -> Coleta e seleção -> Limpeza -> Preparação (Data Engineering)
+-> Modelo de Aprendizagem -> <- Validação do modelo (Machine Learning)
+-> Implantação do Modelo -> Visualização dos Dados (Operations)
+
+█ TIPOS DE DADOS █ 
+
+Dados estruturados, semiestruturados e não estruturados 
+
+DADOS ESTRUTURADOS: São dados organizados no formato tabular
+Exemplos: Planilhas, Arquivos CSV (texto separado por vírgula) e Bancos de dados relacionais
+
+DADOS SEMIESTRUTURADOS: São dados heterogêneos, possuindo estrutura irregular (não tabular)
+Exemplos: XML e JSON
+
+DADOS NÃO ESTRUTURADOS: Não possuem padrão definido, podendo ser obtidos de diferentes fontes
+Exemplos: Textos, documentos, áudios e imagens
+
+█ LIMPEZA DE DADOS (DATA CLEANING) █
+
+Nesta etapa, são identificadas e corrigidas: 
+- Anomalia nos dados;
+- Dados faltantes;
+- Dados supérfluos ou desnecessários;
+- Inconsistências;
+- Etc
+
+█ VISUALIZAÇÃO DOS DADOS █
+
+- Consiste na representação gráfica de informações e dados
+- Usa elementos visuais, como diagramas, gráficos e mapas
+- A visualização de dados é uma forma acessível de ver e entender exceções, tendências e padrões
+nos dados
+
+█ TECNOLOGIAS PARA ANÁLISE DE DADOS █
+
+Python, Julia, R, Tableau, etc
+
+█ LIBS IMPORTANTES DE PYTHON █
+
+Pandas, SciPy, NumPy, Matplotlib, scikit-learn, Seaborn e Scrapy
+
+
