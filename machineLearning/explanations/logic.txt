@@ -1,0 +1,70 @@
+Lógica Proposicional e Lógica de Primeira Ordem
+
+- De maneira geral, a IA estuda como simular o comportamento inteligente,
+e um comportamento inteligente é resultado de um raciocínio lógico correto
+sobre algum conhecimento disponível, e para representar um raciocínio lógico
+para uma máquina, é preciso formalizar o processo, nesse caso, o mais simples
+é a lógica proposicional
+
+O que é Lógica Proposicional? 
+
+- Lógica é o estudo do raciocínio e do conhecimento usado para 
+formalizar e justificar os elementos do raciocínio
+- A lógica clássica se baseia em um mundo binário (visão mais restrita),
+onde as sentenças só podem assumir verdadeiro ou falso
+- A Lógica Proposicional é uma maneira simples de representar a lógica 
+usando sentenças sem argumentos, chamadas de preposições
+- Formalismo composto por: Linguagem formal e métodos de inferência
+- Objetivo: Representar argumentos, isto é, sequências em que uma delas é uma
+conclusão e as demais são premissa, e validar argumentos, verificando se a 
+conclusão está correta
+
+Exemplo de Lógica Proposicional
+
+- Proposição é uma sentença de qualquer natureza, que pode ser qualificada como
+verdadeiro ou falso
+
+MATEMÁTICA | PROPOSIÇÃO LÓGICA 
+1 + 1 = 2  | Proposição verdadeira
+0 > 1      | Proposição falsa
+0 = 0      | Proposição verdadeira
+
+E se não for possível definir uma proposição?
+
+EXEMPLO               | PROPOSIÇÃO LÓGICA
+Frases interrogativas | Qual o seu nome?
+Frases Imperativas    | Vamos logo!
+Paradoxos Lógicos     | Esta frase não é uma frase
+
+- Se não for possível definir como verdadeiro ou falso, então ela não é uma proposição
+
+Sintaxe utilizada
+
+- Para poder representar uma proposição lógica, é necessário utilizar alguns símbolos,
+sendo eles: 
+* Símbolos verdade: true e false
+* Símbolos proposicionais: P, Q, R, S, P1, etc utiliza-se letras maiúsculas,
+sendo que cada uma representa uma proposição)
+* Conectivos proposicionais: ¬, ~, !, A (não), ^ (e), v (ou inclusivo), → (implica ou "se, então"),
+↔ (equivalência, bi-implicação ou "se e somente se")
+* Símbolos de pontuação: (e)
+
+Tabela verdade 
+
+- P, Q, ~ P (negação), P ^ Q (e), P v Q (ou), P → Q (P implica em Q, se P é verdade, então Q é verdade), 
+P ↔ Q (se e somente se o P for verdadeiro, então o Q também é verdadeiro, e se P for falso, então Q é verdadeiro) 
+
+Precedência dos conectivos 
+
+- Se em uma fórmula, os parênteses não são usados, deve-se seguir o seguinte critério: 
+
+¬ (maior precedência)
+-> e <-> (precedência intermediaria)
+^ e v (menor precedência)
+
+Regras de associatividade
+
+= Definem a prioridade no cálculo para conectivos de mesma precedência: 
+^ e v (da esquerda para a direita)
+-> e <-> (da direita para a esquerda)
+

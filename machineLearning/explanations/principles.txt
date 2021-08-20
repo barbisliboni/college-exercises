@@ -1,0 +1,67 @@
+O que é inteligência artificial?
+
+- É uma tecnologia que potencializa computadores e máquinas
+para imitar recursos da mente humana para solucionar problemas
+e tomar decisões;
+- É a ciência e a engenharia de fabricar máquinas inteligentes,
+especialmente programas ded computador inteligentes;
+- Está relacionada a tarefa semelhante de usar computadores para
+entender a inteligência humana, mas IA não precisa se limitar aos
+métodos biologicamente observáveis
+
+Como começou?
+
+- Teve seu termo cunhado em 1956 e foi criada, inicialmente, por 
+Alan Turing, além disso, ele: 
+* é considerado o pai da Ciência da Computação e Inteligência computacional;
+* construiu uma máquina que ajudou a quebrar a criptografia alemã na segunda guerra;
+* propôs um teste conhecido como Teste de Turing;
+* possui um prêmio em homenagem ao seu nome, conhecido como nobel da computação
+
+Teste de Turing
+
+- Para o computador passar no teste, é necessário o desenvolvimento de um
+sistema tenha minimamente os seguintes recursos: 
+* processamento de linguagem natural;
+* representação do conhecimento;
+* raciocínio automatizado;
+* aprendizado de máquina
+
+Subcampos da IA
+
+- IA envolve vários subcampos  que abrangem o aprendizado de máquina, 
+percepção, tarefas específicas de em resolução de problemas, etc
+- Sistematiza e automatiza as tarefas através da percepção, compreensão, prevenção
+e manipulação de situações voltadas para resoluções de problemas reais
+- Atualmente é uma ciência relevante para todas as esferas da atividade intelectual
+humana
+
+Tipos diferentes de IA
+
+- Sistemas que pensam como seres humanos;
+- Sistemas que pensam racionalmente;
+- Sistemas que atuam como seres humanos;
+- Sistemas que atuam racionalmente
+
+Campos que a IA abrangem
+
+- Matemática (algoritimo, probabilidade, teorema da incerteza)
+- Economia (teoria de decisão, teoria dos jogos e pesquisa operacional)
+- Neurociências (neurônio)
+- Psicologia (ciência cognitiva, comportamento e psicologia cognitiva)
+- Engenharia da computação (sistemas operacionais, linguagens de programação, 
+máquinas programáveis)
+- Cibernética 
+- Linguística
+
+Tipos de IA: Fraca e forte
+
+- IA fraca: é uma IA treinada para uma determinada tarefa, hoje é o tipo que domina
+o mercado, por exemplo: Siri, Alexa, IBM Watson e veículos autônomos 
+- IA forte: na teoria, é uma IA que teria uma inteligência comparada a humana,
+sendo capaz de mentir, aprender e planejar o futuro
+
+Qual a diferença entre Deep Learning e Machine Learning?
+
+- Um é subconjunto do outro, no caso ambos são da Artificial Intelligence, e Deep Learning está contido
+em Machine Learning
