@@ -28,4 +28,9 @@ sum = a + b
 print('The sum of the numbers', a, 'and ', b, 'is', sum)
 
 #5
+from math import sqrt
+
+a = int(input("a: "))
+b = int(input("b: "))
+c = int(input("c: "))
 
