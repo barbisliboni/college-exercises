@@ -1,0 +1,11 @@
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\bin\Debug\Hello World Project.exe.config
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\bin\Debug\Hello World Project.exe
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\bin\Debug\Hello World Project.pdb
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.csproj.AssemblyReference.cache
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.csproj.SuggestedBindingRedirects.cache
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello_World_Project.Form1.resources
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello_World_Project.Properties.Resources.resources
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.csproj.GenerateResource.cache
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.csproj.CoreCompileInputs.cache
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.exe
+B:\Users\Barbara\Documents\Exercicios-Facul\C#\Hello World Project\Hello World Project\obj\Debug\Hello World Project.pdb
